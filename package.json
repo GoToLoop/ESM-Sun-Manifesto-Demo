@@ -3,6 +3,13 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "main": "index.mjs",
+  "url": "https://GoToLoop.GitHub.io/ESM-Sun-Manifesto-Demo/",
+  "homepage": "https://Discourse.Processing.org/t/more-than-one-sketch-in-same-html-page/45447/10",
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://GitHub.com/GoToLoop/ESM-Sun-Manifesto-Demo.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
