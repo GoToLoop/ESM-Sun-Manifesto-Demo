@@ -1,7 +1,7 @@
 {
   "name": "ESM-Sun-Manifesto-Demo",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "commonjs",
   "main": "index.mjs",
   "url": "https://GoToLoop.GitHub.io/ESM-Sun-Manifesto-Demo/",
@@ -14,7 +14,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "./start"
+    "start": "./run"
   },
   "devDependencies": {
     "prettier": "^3.3.1",
