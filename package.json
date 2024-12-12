@@ -1,7 +1,7 @@
 {
   "name": "ESM-Sun-Manifesto-Demo",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "commonjs",
   "main": "index.mjs",
   "url": "https://GoToLoop.GitHub.io/ESM-Sun-Manifesto-Demo/",
