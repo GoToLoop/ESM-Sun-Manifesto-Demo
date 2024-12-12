@@ -2,7 +2,7 @@
   "name": "ESM-Sun-Manifesto-Demo",
   "private": true,
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "main": "index.mjs",
   "url": "https://GoToLoop.GitHub.io/ESM-Sun-Manifesto-Demo/",
   "homepage": "https://Discourse.Processing.org/t/more-than-one-sketch-in-same-html-page/45447/10",
